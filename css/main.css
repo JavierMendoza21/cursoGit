@@ -1,5 +1,6 @@
 body {
     background-color: blue;
     font-weight: 400;
-    color: red;
+    color: #000;
+    text-transform:upercase;
 }
